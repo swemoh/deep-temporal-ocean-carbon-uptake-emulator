@@ -70,3 +70,7 @@ Open `notebooks/Uncertainty_training.ipynb` and run the cells in order:
 - The code contains placeholders such as `PATH`, `EXP-NAME`, and `DATA-PATH`; replace them with your local dataset locations before running.
 - The model uses a 6-month lookback window and monthly time resolution.
 - Data access is project-specific; contact the dataset owner if the raw simulation files are not available locally.
+
+## Data availabilty
+
+Due to storage constraints associated with the large size of the dataset, a public repository is not currently maintained. Inquiries regarding access to the ocean model output should be directed to Sweety Mohanty (smo@informatik.uni-kiel.de) and Lavinia Patara (lpatara@geomar.de) via email.
