@@ -17,8 +17,7 @@ Sweety Mohanty<sup>1,2</sup> ([ORCID](https://orcid.org/0009-0004-2733-290X)), D
 
 ## Contact
 
-- University of Kiel: `smo, dka, ang, pkr @ informatik.uni-kiel.de`
-- University of Kiel / GEOMAR: `agoehring @ leibniz-kiel.de`
+- University of Kiel: `smo, dka, pkr @ informatik.uni-kiel.de`, `agoehring @ leibniz-kiel.de`
 - GEOMAR Helmholtz Centre for Ocean Research Kiel: `wrath, lpatara @ geomar.de`
 
 # Project
