@@ -21,6 +21,8 @@ Sweety Mohanty<sup>1,2</sup> ([ORCID](https://orcid.org/0009-0004-2733-290X)), D
 - University of Kiel / GEOMAR: `agoehring @ leibniz-kiel.de`
 - GEOMAR Helmholtz Centre for Ocean Research Kiel: `wrath, lpatara @ geomar.de`
 
+# Project
+
 This project trains a temporal deep-learning emulator for monthly ocean carbon uptake diagnostics using gridded NetCDF model output. The codebase follows a preprocessing → windowing → training workflow:
 
 1. Read and merge ocean-model variables from NetCDF files
