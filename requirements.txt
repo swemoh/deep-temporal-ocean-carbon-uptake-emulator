@@ -1,0 +1,18 @@
+# Data Manipulation & Math
+pandas
+numpy
+xarray
+joblib
+
+# Visualization
+matplotlib
+seaborn
+basemap
+
+# Machine Learning & Deep Learning
+torch
+scikit-learn
+
+# Environment
+ipython
+jupyter
